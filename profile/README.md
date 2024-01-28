@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://urlr.me/en">
-   <img src="open-graph-en.png" alt="URLR">
+   <img src="https://raw.githubusercontent.com/URLR/.github/main/profile/open-graph-en.png" alt="URLR">
   </a>
 
   <h3 align="center">URLR</h3>
